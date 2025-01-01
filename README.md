@@ -88,6 +88,8 @@ Epoch [100/100], Loss: 0.0691, Accuracy: 0.9902
 
 # 1.py
 
+1.py中是不使用预训练模型，自己设计的VIT模型
+
 Epoch [1/100], Loss: 0.7936, Accuracy: 0.5061
 
 Epoch [5/100], Loss: 0.6947, Accuracy: 0.5218
