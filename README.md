@@ -86,3 +86,48 @@ Epoch [100/100], Loss: 0.0691, Accuracy: 0.9902
 
 ![image](https://github.com/user-attachments/assets/3fb3c525-e6fc-4080-a1c0-c6b0f719be19)
 
+# 1.py
+
+Epoch [1/100], Loss: 0.7936, Accuracy: 0.5061
+
+Epoch [5/100], Loss: 0.6947, Accuracy: 0.5218
+
+Epoch [10/100], Loss: 0.6914, Accuracy: 0.5321
+
+Epoch [15/100], Loss: 0.6907, Accuracy: 0.5458
+
+Epoch [20/100], Loss: 0.6943, Accuracy: 0.5350
+
+Epoch [25/100], Loss: 0.6897, Accuracy: 0.5409
+
+Epoch [30/100], Loss: 0.6912, Accuracy: 0.5380
+
+Epoch [35/100], Loss: 0.6831, Accuracy: 0.5380
+
+Epoch [40/100], Loss: 0.6722, Accuracy: 0.5737
+
+Epoch [45/100], Loss: 0.6700, Accuracy: 0.5747
+
+Epoch [50/100], Loss: 0.6659, Accuracy: 0.5884
+
+Epoch [55/100], Loss: 0.6672, Accuracy: 0.5532
+
+Epoch [60/100], Loss: 0.6587, Accuracy: 0.5889
+
+Epoch [65/100], Loss: 0.6600, Accuracy: 0.5732
+
+Epoch [70/100], Loss: 0.6360, Accuracy: 0.6144
+
+Epoch [75/100], Loss: 0.6319, Accuracy: 0.6325
+
+Epoch [80/100], Loss: 0.6156, Accuracy: 0.6453
+
+Epoch [85/100], Loss: 0.5991, Accuracy: 0.6688
+
+Epoch [90/100], Loss: 0.5302, Accuracy: 0.7193
+
+Epoch [95/100], Loss: 0.5046, Accuracy: 0.7496
+
+Epoch [100/100], Loss: 0.3853, Accuracy: 0.8256
+
+![image](https://github.com/user-attachments/assets/236c6922-ae70-428e-b3e4-26d11c83113d)
