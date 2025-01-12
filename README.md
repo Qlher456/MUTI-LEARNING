@@ -133,3 +133,12 @@ Epoch [95/100], Loss: 0.5046, Accuracy: 0.7496
 Epoch [100/100], Loss: 0.3853, Accuracy: 0.8256
 
 ![image](https://github.com/user-attachments/assets/236c6922-ae70-428e-b3e4-26d11c83113d)
+
+# VGG16+CAM.py
+
+利用CAM机制和VGG网络相结合，在每次迭代后利用CAM机制，重点关注重点位置。
+
+![image](https://github.com/user-attachments/assets/a122db20-b1ef-4b61-a409-717ac377a395)
+
+![image](https://github.com/user-attachments/assets/f895e633-3c02-4553-ab97-394607582f35)
+
