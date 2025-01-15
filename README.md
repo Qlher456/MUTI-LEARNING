@@ -148,46 +148,46 @@ Epoch [100/100], Loss: 0.3853, Accuracy: 0.8256
 
 将 ViT 的全局特征与 VGG16（含 CAM）的局部特征融合，采用简单的特征拼接或者注意力加权机制。在融合后的特征上进行分类任务，进一步提升分类精度。
 
-Epoch [1/100] Train Loss: 0.7098, Train Acc: 0.5116 Val Loss: 0.6776, Val Acc: 0.6015
+Epoch [1/100] Train Loss: 0.7379, Train Acc: 0.5202 Val Loss: 0.6821, Val Acc: 0.5306
 
-Epoch [5/100] Train Loss: 0.5272, Train Acc: 0.7390 Val Loss: 0.6225, Val Acc: 0.6724
+Epoch [5/100] Train Loss: 0.5461, Train Acc: 0.7286 Val Loss: 0.6150, Val Acc: 0.6724
 
-Epoch [10/100] Train Loss: 0.3057, Train Acc: 0.8799 Val Loss: 0.7387, Val Acc: 0.6504
+Epoch [10/100] Train Loss: 0.3357, Train Acc: 0.8597 Val Loss: 0.7085, Val Acc: 0.6528
 
-Epoch [15/100] Train Loss: 0.1081, Train Acc: 0.9755 Val Loss: 1.0965, Val Acc: 0.6577
+Epoch [15/100] Train Loss: 0.1624, Train Acc: 0.9467 Val Loss: 0.8947, Val Acc: 0.6601
 
-Epoch [20/100] Train Loss: 0.0493, Train Acc: 0.9926 Val Loss: 1.3176, Val Acc: 0.6333
+Epoch [20/100] Train Loss: 0.0881, Train Acc: 0.9724 Val Loss: 1.1571, Val Acc: 0.6699
 
-Epoch [25/100] Train Loss: 0.0438, Train Acc: 0.9890 Val Loss: 1.5084, Val Acc: 0.6308
+Epoch [25/100] Train Loss: 0.0240, Train Acc: 0.9957 Val Loss: 1.7341, Val Acc: 0.6308
 
-Epoch [30/100] Train Loss: 0.0049, Train Acc: 1.0000 Val Loss: 1.8338, Val Acc: 0.6333
+Epoch [30/100] Train Loss: 0.0071, Train Acc: 1.0000 Val Loss: 1.7338, Val Acc: 0.6479
 
-Epoch [35/100] Train Loss: 0.0036, Train Acc: 1.0000 Val Loss: 1.9412, Val Acc: 0.6504
+Epoch [35/100] Train Loss: 0.0038, Train Acc: 1.0000 Val Loss: 1.9044, Val Acc: 0.6699
 
-Epoch [40/100] Train Loss: 0.0023, Train Acc: 1.0000 Val Loss: 2.0842, Val Acc: 0.6406
+Epoch [40/100] Train Loss: 0.0021, Train Acc: 1.0000 Val Loss: 2.0865, Val Acc: 0.6626
 
-Epoch [45/100] Train Loss: 0.0008, Train Acc: 1.0000 Val Loss: 2.2500, Val Acc: 0.6381
+Epoch [45/100] Train Loss: 0.0008, Train Acc: 1.0000 Val Loss: 2.1877, Val Acc: 0.6650
 
-Epoch [50/100] Train Loss: 0.0005, Train Acc: 1.0000 Val Loss: 2.3849, Val Acc: 0.6333
+Epoch [50/100] Train Loss: 0.0006, Train Acc: 1.0000 Val Loss: 2.3132, Val Acc: 0.6675
 
-Epoch [55/100] Train Loss: 0.0004, Train Acc: 1.0000 Val Loss: 2.4723, Val Acc: 0.6284
+Epoch [55/100] Train Loss: 0.0004, Train Acc: 1.0000 Val Loss: 2.4298, Val Acc: 0.6577
 
-Epoch [60/100] Train Loss: 0.0003, Train Acc: 1.0000 Val Loss: 2.5768, Val Acc: 0.6333
+Epoch [60/100] Train Loss: 0.0003, Train Acc: 1.0000 Val Loss: 2.5078, Val Acc: 0.6650
 
-Epoch [65/100] Train Loss: 0.0002, Train Acc: 1.0000 Val Loss: 2.6605, Val Acc: 0.6308
+Epoch [65/100] Train Loss: 0.0002, Train Acc: 1.0000 Val Loss: 2.6108, Val Acc: 0.6626
 
-Epoch [70/100] Train Loss: 0.0002, Train Acc: 1.0000 Val Loss: 2.7454, Val Acc: 0.6284
+Epoch [70/100] Train Loss: 0.0002, Train Acc: 1.0000 Val Loss: 2.6989, Val Acc: 0.6626
 
-Epoch [75/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 2.8246, Val Acc: 0.6381
+Epoch [75/100] Train Loss: 0.0002, Train Acc: 1.0000 Val Loss: 2.7836, Val Acc: 0.6650
 
-Epoch [80/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 2.8968, Val Acc: 0.6333
+Epoch [80/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 2.8511, Val Acc: 0.6675
 
-Epoch [85/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 2.9595, Val Acc: 0.6259
+Epoch [85/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 2.9525, Val Acc: 0.6601
 
-Epoch [90/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 3.0222, Val Acc: 0.6308
+Epoch [90/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 3.0051, Val Acc: 0.6626
 
-Epoch [95/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 3.1028, Val Acc: 0.6284
+Epoch [95/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 3.0521, Val Acc: 0.6650
 
-Epoch [100/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 3.1576, Val Acc: 0.6308
+Epoch [100/100] Train Loss: 0.0001, Train Acc: 1.0000 Val Loss: 3.1835, Val Acc: 0.6577
 
-![image](https://github.com/user-attachments/assets/4be368a7-9e36-429a-b3e9-2e6f3f515277)
+![image](https://github.com/user-attachments/assets/466aa5a9-ffd7-4bd9-90e1-7df1274a044f)
